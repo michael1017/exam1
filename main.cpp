@@ -95,7 +95,7 @@ int main(void) {
         eventThread.start(callback(&eventQueue, &EventQueue::dispatch_forever));
         eventQueue.call(&WaveGen);
 
-        ThisThread::sleep_for(1s);
+        ThisThread::sleep_for(2s);
         Writing = 1;
 
         ShowData();
