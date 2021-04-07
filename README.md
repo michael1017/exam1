@@ -23,6 +23,9 @@ After that follow the wire connection discribe in main.cpp
 
 FTT.py is a python script to analysis the output signal with using matplotlib
 
+## Experiment Curcuit
+![](https://i.imgur.com/sVkzQuH.jpg)
+
 ## Example Output
 
 ### 1
